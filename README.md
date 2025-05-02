@@ -61,13 +61,7 @@ If you’re using **Google Colab free tier or low-resource systems**, you can ea
 
 ---
 
-## 📷 Screenshots
 
-| Home UI | Answering Questions |
-|--------|---------------------|
-| ![UI](screenshots/home_ui.png) | ![Answer](screenshots/qa_response.png) |
-
----
 
 ## 📌 Example Use Case
 
