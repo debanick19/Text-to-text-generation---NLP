@@ -77,7 +77,7 @@ You’ll get concise, context-aware answers based on the article content.
 
 **Debanick Banerjee**  
 _Data Scientist | AI Engineer | NLP + LLM Practitioner_  
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourprofile)
+[LinkedIn](https://www.linkedin.com/in/debanick-banerjee/) • [GitHub](https://github.com/debanick19)
 
 ---
 
